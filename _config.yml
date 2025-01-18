@@ -1,5 +1,5 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: FFXIV Primer
+description: A primer for new players to Final Fantasy XIV.
 theme: just-the-docs
 
 url: https://poysama.github.io/ffxiv-primer
@@ -10,3 +10,18 @@ aux_links:
 color_scheme: dark
 
 nav_enabled: true
+
+enable_copy_code_button: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+collections:
+  endgame:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    endgame:
+      name: Endgame content
