@@ -11,6 +11,10 @@ Endgame content in FFXIV consists of challenging, optional encounters designed t
 
 Endgame activities are divided into several categories, each catering to different levels of challenge and progression:  
 
+<!---
+Add an image here on the progression
+-->
+
 ## **Extremes**  
 - **What are they?**  
   - Extreme Trials are harder versions of Main Scenario Quest (MSQ) trials.  

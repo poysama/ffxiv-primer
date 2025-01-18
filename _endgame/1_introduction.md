@@ -12,7 +12,7 @@ permalink: /endgame/introduction
 Endgame content in FFXIV encompasses **Extreme Trials**, **Savage Raids**, and **Ultimate Raids**. These high-level challenges require dedication and preparation. Here's what you need to know:
 
 - **Coordination**: Success often hinges on teamwork and communication to execute mechanics smoothly.  
-- **Skill**: A deep understanding of your class, including rotations and job-specific mechanics, is essential. [Learn more about mastering your job.](#job-mastery)  
+- **Skill**: A deep understanding of your class, including rotations and job-specific mechanics, is essential. [Learn more about mastering your job.](/endgame/jobmastery)  
 - **Patience**: Expect to fail multiple times as you and your group learn fight mechanics—it’s part of the process.  
 - **Time Commitment**: Many players tackle endgame content through **Static groups**. These groups set specific schedules for raids, requiring commitment and planning.
 

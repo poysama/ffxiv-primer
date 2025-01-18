@@ -26,19 +26,10 @@ This means every player’s contribution matters, whether you're a **DPS**, **Ta
 ### **Openers**  
 - An **Opener** is the sequence of abilities used at the start of a fight to maximize burst damage during cooldown windows.  
 - Proper openers align your strongest abilities with group buffs, ensuring maximum team DPS.  
+- For more advanced information, check out [Understanding 1-min and 2-min Bursts](/endgame/advanced-information#understanding-1-min-and-2-min-bursts).
 
 ### **Rotations**  
 - A **Rotation** is the sequence of abilities used throughout a fight to maintain optimal damage.  
 - Rotations can change depending on mechanics, downtime, or phase transitions.  
-
-## Useful Resources  
-
-- **Guides**:  
-  - Check out **The Balance Discord** for detailed guides tailored to each job.  
-
-- **Practice Tools**:  
-  - **Stone, Sky, Sea (SSS)** dummies: Test your DPS against enrage simulations.  
-  - **ACT (Advanced Combat Tracker)**: Analyze your performance in real time.  
-  - **FFLogs**: Compare your parses with others to identify areas for improvement.  
 
 Mastering your job takes time and practice, but the payoff is worth it—contributing to your team’s success while experiencing the full potential of your job.  

@@ -21,6 +21,7 @@ An explanation of older endgame content, which refers to challenges released in 
 ## Why Should You Do Older Endgame Content?  
 - **Mounts**: Unique mounts drop from the last floor of Savage raid tiers.  
 - **Glamour**: Savage gear often looks amazing for glamour purposes.  
+- **Just Because**: It is fun and you get to experience old fights!
 
 ## Why Isn’t Anyone Doing X Content?  
 Imagine this: You reach level 70, find an Ultimate Raid in Party Finder, and wait for hours with no one joining. Why does this happen?  
@@ -28,6 +29,7 @@ Imagine this: You reach level 70, find an Ultimate Raid in Party Finder, and wai
 - **Already Cleared**: Veteran players have done it enough and don’t return.  
 - **Focus on Current Content**: Most players prioritize the latest challenges.  
 - **No Need for Rewards**: Players already have the mounts or gear they wanted.  
+- **Small sync playerbase content**: It's insanely niche to find people willing to do old content on sync.
 
 ## How to Play Older Content  
 
@@ -37,6 +39,7 @@ Imagine this: You reach level 70, find an Ultimate Raid in Party Finder, and wai
 
 ### Savage  
 - **Off-Patch Savage**: Generally “dead” outside current content cycles.  
+- **Synced Fight Resources**: There are google docs that let you challenge these fights on an almost equal level as they were on released through the use of manual item level downsync.
 
 ### Extreme  
 - **More Activity**: Older Extreme Trials are more active than Savage due to mount rewards.  
@@ -44,3 +47,4 @@ Imagine this: You reach level 70, find an Ultimate Raid in Party Finder, and wai
 ### Tips for Tackling Older Content  
 - Plan to run older content during downtime between patches.  
 - Join or create static groups focused on older challenges.  
+- Statics usually use old content to trial new members.
