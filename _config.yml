@@ -8,3 +8,5 @@ aux_links:
   Template Repository: https://github.com/poysama/ffxiv-primer
 
 color_scheme: dark
+
+nav_enabled: true
