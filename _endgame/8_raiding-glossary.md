@@ -9,4 +9,4 @@ For the most common terminologies, please check [Tuufless' Guide on Terminologie
 
 # Raid Terminologies
 ## Common Raid Mechanics
-![common-raid-mechanics](/images/common_raid_mechanics.webp)
+<img src="{{site.baseurl}}/images/common_raid_mechanics.webp">

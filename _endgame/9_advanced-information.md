@@ -49,7 +49,7 @@ Parsing refers to analyzing your damage output (and other performance metrics) u
 
 ---
 
-## Understanding 1-min and 2-min Bursts
+## Raid buffs and Understanding 1-min and 2-min Bursts
 
 In most modern raids, the timing of your burst phases is crucial for maximizing DPS. Knowing when to use your most powerful abilities (1-min and 2-min burst windows) can make a significant difference in your raid performance.
 
