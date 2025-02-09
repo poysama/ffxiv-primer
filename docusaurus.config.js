@@ -67,8 +67,8 @@ const config = {
       navbar: {
         title: 'FFXIV Primer',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Damage Down',
+          src: 'img/logo.webp',
         },
         items: [
           // {
@@ -128,7 +128,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `${new Date().getFullYear()} Konyaku Jelly @ Tonberry. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
