@@ -23,7 +23,7 @@ This means every player’s contribution matters, whether you're a **DPS**, **Ta
 ### **Openers**  
 - An **Opener** is the sequence of abilities used at the start of a fight to maximize burst damage during cooldown windows.  
 - Proper openers align your strongest abilities with group buffs, ensuring maximum team DPS.  
-- For more advanced information, check out [Understanding 1-min and 2-min Bursts](/endgame/advanced-information#understanding-1-min-and-2-min-bursts).
+- For more advanced information, check out [Understanding 1-min and 2-min Bursts](/endgame-content/advanced#raid-buffs-and-understanding-1-min-and-2-min-bursts).
 
 ### **Rotations**  
 - A **Rotation** is the sequence of abilities used throughout a fight to maintain optimal damage.  
